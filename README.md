@@ -1,4 +1,4 @@
-**Keisuke Nakano**, a student of Kochi University of Technology
+**Keisuke Nakano**, a student at Kochi University of Technology majoring in statistics.
 
 School of Economics and Management
 
