@@ -10,7 +10,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=r,latex,apple,notion,git,github,docker,vscode,html,css,ts,react,next,supabase,tailwind,vercel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=r,notion,git,docker,html,css,ts,react,next" />
 <br>
 
 ## 🏃‍♀️ Activities
