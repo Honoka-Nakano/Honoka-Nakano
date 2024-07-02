@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Honoka-Nakano" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I&apos;m Keisuke Nakano!
 
 - 🧑‍💻 I'm a student of Kochi University of Technology who loves technology.
 - 🌱 I’m currently learning React!
