@@ -1,5 +1,8 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Honoka-Nakano" />
+  <a href="https://qiita.com/Honoka-Nakano">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Honoka-Nakano/posts.svg" />
+  </a>
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I&apos;m Keisuke Nakano!
