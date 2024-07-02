@@ -13,25 +13,12 @@
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
 
-## 🌱 Favorite Tech
+## 🌱 Favorite Tech & Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=r,notion,git,docker,html,css,js,ts,react,next" />
 <br>
 
 ## 🏃‍♀️ Activities
 <div align="left" style='flex;'> 
-  <img alt="git status" height="170px" src="https://github-readme-stats.vercel.app/api?username=Honoka-Nakano&theme=vue-dark&layout=compact" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honoka-Nakano&theme=vue-dark&layout=compact" />
+  <img alt="git status" height="170px" src="https://github-readme-stats.vercel.app/api?username=Honoka-Nakano&theme=vue-dark&layout=compact&card_width=200" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honoka-Nakano&theme=vue-dark&layout=compact&card_width=200" />
 </div>
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
