@@ -1,6 +1,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Honoka-Nakano" />
-  <a href="https://qiita.com/Honoka-Nakano">
+  <a href="https://qiita.com/Honoka-Nakano" target="_blank">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Honoka-Nakano/posts.svg" />
   </a>
 </div>
