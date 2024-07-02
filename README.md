@@ -1,6 +1,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Honoka-Nakano" />
-  <a href="https://qiita.com/Honoka-Nakano" target="_blank">
+  <a href="https://qiita.com/Honoka-Nakano">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Honoka-Nakano/posts.svg" />
   </a>
 </div>
@@ -19,6 +19,6 @@
 
 ## 🏃‍♀️ Activities
 <div align="left" style='flex;'> 
-  <img alt="git status" height="170px" src="https://github-readme-stats.vercel.app/api?username=Honoka-Nakano&theme=vue-dark&layout=compact&card_width=200" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honoka-Nakano&theme=vue-dark&layout=compact&card_width=200" />
+  <img alt="git status" height="170px" src="https://github-readme-stats.vercel.app/api?username=Honoka-Nakano&theme=tokyonight&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honoka-Nakano&theme=tokyonight&layout=compact" />
 </div>
