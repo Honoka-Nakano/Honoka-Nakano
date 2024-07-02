@@ -7,12 +7,13 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I&apos;m Keisuke Nakano!
 
-- 🧑‍💻 I'm a student of Kochi University of Technology who loves technology.
-- 🌱 I’m currently learning React!
+- 🧑‍💻 I&apos;m a student of Kochi University of Technology who loves technology.
+- 🧑‍🎓 I&apos;m majoring in economics & statistics.
+- 🌱 I&apos;m currently learning React!
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
 
-## 🌱 Skills
+## 🌱 Favorite Tech
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=r,notion,git,docker,html,css,js,ts,react,next" />
 <br>
 
