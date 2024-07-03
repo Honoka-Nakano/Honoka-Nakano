@@ -19,6 +19,6 @@
 
 ## 🏃‍♀️ Activities
 <div align="left" style='flex;'> 
-  <img alt="git status" height="170px" src="https://github-readme-stats.vercel.app/api?username=Honoka-Nakano&theme=tokyonight&layout=compact" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honoka-Nakano&theme=tokyonight&layout=compact" />
+  <img alt="git status" height="170px" src="https://github-readme-stats.vercel.app/api?username=Honoka-Nakano&theme=react&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honoka-Nakano&theme=react&layout=compact" />
 </div>
