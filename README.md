@@ -9,12 +9,12 @@
 
 - 🧑‍💻 I&apos;m a student of Kochi University of Technology who loves technology.
 - 🧑‍🎓 I&apos;m majoring in economics & statistics.
-- 🌱 I&apos;m currently learning React!
+- 🌱 I&apos;m currently learning web development with React(Next.js) & Django!
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
 
 ## 🌱 Favorite Tech & Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=r,notion,git,docker,html,css,js,ts,react,next" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,ts,react,next,py,dj,git,cocker,r" />
 <br>
 
 ## 🏃‍♀️ Activities
