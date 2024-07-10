@@ -11,6 +11,7 @@
 - 🧑‍🎓 I&apos;m majoring in economics & statistics.
 - 🥼 I belong to [the Laboratory for Quantitative Political Economy](https://Yanai-Lab.github.io/).
 - 🌱 I&apos;m currently learning web development with React(Next.js) & Django!
+- 🏃‍♂️‍➡️ Please visit also [my personal website](https://Honoka-Nakano.github.io/)!
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
 
