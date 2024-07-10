@@ -9,6 +9,7 @@
 
 - 🧑‍💻 I&apos;m a student of Kochi University of Technology who loves technology.
 - 🧑‍🎓 I&apos;m majoring in economics & statistics.
+- 🥼 I belong to the Laboratory for Quantitative Political Economy.
 - 🌱 I&apos;m currently learning web development with React(Next.js) & Django!
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
