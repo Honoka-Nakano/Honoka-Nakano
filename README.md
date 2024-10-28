@@ -16,7 +16,7 @@
 <br>
 
 ## 🌱 Favorite Tech & Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,ts,react,next,py,django,git,docker,r" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=ts,py,next,flask,r,git,github,vscode,neovim" />
 <br>
 
 ## 🏃‍♀️ Activities
