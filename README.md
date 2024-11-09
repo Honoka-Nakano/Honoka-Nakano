@@ -1,7 +1,7 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Honoka-Nakano" />
+  <img src="https://komarev.com/ghpvc/?username=honocat" />
   <a href="https://qiita.com/Honoka-Nakano">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Honoka-Nakano/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/honocat/posts.svg" />
   </a>
 </div>
 
@@ -9,9 +9,9 @@
 
 - 🧑‍💻 I&apos;m a student of Kochi University of Technology who loves technology.
 - 🧑‍🎓 I&apos;m majoring in economics & statistics.
-- 🥼 I belong to [the Laboratory for Quantitative Political Economy](https://Yanai-Lab.github.io/).
+- 🥼 I belong to [the Laboratory for Quantitative Political Economy](https://github.com/qpe-kut/).
 - 🌱 I&apos;m currently learning web development with React(Next.js) & Django!
-- 🏃‍♂️‍➡️ Please visit also [my personal website](https://Honoka-Nakano.github.io/)!
+- 🏃‍♂️‍➡️ Please visit also [my personal website](https://honocat.github.io/)!
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
 
