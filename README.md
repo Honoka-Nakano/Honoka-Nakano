@@ -10,7 +10,7 @@
 - 🧑‍💻 I&apos;m a student of Kochi University of Technology who loves technology.
 - 🧑‍🎓 I&apos;m majoring in economics & statistics.
 - 🥼 I belong to [the Laboratory for Quantitative Political Economy](https://github.com/qpe-kut/).
-- 🌱 I&apos;m currently learning web development with React(Next.js) & Django!
+- 🌱 I&apos;m currently learning web development with React(Next.js) & Flask!
 - 🏃‍♂️‍➡️ Please visit also [my personal website](https://honocat.github.io/)!
 - 📫 How to reach me: n.honoka081921@gmail.com
 <br>
